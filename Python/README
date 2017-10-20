@@ -3,7 +3,7 @@ This repository is for people who learn python language
 
 
 a = time.localtime()
-    print (a[2],"/", a[1],"/",a[0]) # On affiche jour, le moi et l'année
+    print (a[2],"/", a[1],"/",a[0]) # print days , month and year
 
 [0] year
 [1] month
